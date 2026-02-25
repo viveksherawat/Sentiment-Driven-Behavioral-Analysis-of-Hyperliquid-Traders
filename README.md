@@ -30,4 +30,5 @@ This analysis integrated historical Hyperliquid trader transaction data with the
 *   **Optimized Parameters**: The best-performing model utilized **300 estimators** with no maximum depth and no bootstrapping, which maximized the F1-score during cross-validation.
 *   **Segmented Behavior**: Interactive visualizations revealed distinct behaviors across segments; for instance, high-frequency segments showed varying win-rate stability depending on whether the market was in a state of "Fear" or "Greed."
 
-
+## To Run the .ipynb File -
+   Simply Upload both the csv files and Run the code.
